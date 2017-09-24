@@ -22,7 +22,11 @@ var name = firstName + " " + lastName
 
 var length = 10
 var width = 50
+var dan = "dan"
+var sa = "samoa"
+var love = dan + sa
 
+print(love)
 let area = length * width
 
 let badmath = length + width
